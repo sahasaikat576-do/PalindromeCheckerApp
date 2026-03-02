@@ -57,6 +57,6 @@ public class UseCase12PalindromeCheckerApp {
 
         // Display the results as shown in your requirements
         System.out.println("Input : " + input);
-        System.out.println("Is Palindrome? : " + isPalindrome);
+        System.out.println("Is Palindrome?  : " + isPalindrome);
     }
 }
