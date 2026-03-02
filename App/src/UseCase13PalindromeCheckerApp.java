@@ -66,6 +66,6 @@ public class UseCase13PalindromeCheckerApp {
         // Display benchmarking results as per the screenshot requirements
         System.out.println("Input : " + input);
         System.out.println("Is Palindrome? : " + isPalindrome);
-        System.out.println("Execution Time : " + executionTime + " ns");
+        System.out.println("Execution --- Time : " + executionTime + " ns");
     }
 }
